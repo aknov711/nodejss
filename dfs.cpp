@@ -18,6 +18,7 @@ for(ll i=0;i<=n;i++)
   }
 }
 int main()
-{
+{  
+  dfs(8);//callinf dfs function
   return 0;
 }
