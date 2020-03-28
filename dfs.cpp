@@ -18,6 +18,8 @@ for(ll i=0;i<=n;i++)
   }
 }
 int main()
-{
+{   
+  //first must create an instance of graph
+  dfs(8);//callinf dfs function
   return 0;
 }
