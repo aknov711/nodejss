@@ -1,4 +1,4 @@
-//the code for simple dfs
+//the code for simple dfs Is it not too simple!
 vector<ll,ll>adj[n+1];
 bool visited[n+1];
 void dfs(int s)
